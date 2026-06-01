@@ -1,0 +1,12 @@
+title: Org Unit Sync
+description: DHIS2 Organisation Unit Sync Documentation
+
+theme: just-the-docs
+
+url: https://priyanga76.github.io
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/priyanga76/dhis2-orgunit-sync"
+
+search_enabled: true
