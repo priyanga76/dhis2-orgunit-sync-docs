@@ -7,7 +7,7 @@ nav_order: 1
 Welcome to the documentation for the **DHIS2 Org Unit Sync** app.
 
 ## Start here
-- ⚡ [**Quick Start Guide**](./Quick_Start_v1.0.html): See *Quick Start Guide* for the safe operational workflow
+- ⚡ [**Quick Start Guide**](./Quick_Start_v1.0.md): See *Quick Start Guide* for the safe operational workflow
 - 📘 **Full User Guide**: Detailed instructions, rules, and governance notes
 
 ## Key safety reminders
