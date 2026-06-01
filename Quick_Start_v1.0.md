@@ -1,5 +1,6 @@
 ---
 title: Quick Start Guide
+layout: default
 nav_order: 2
 ---
 
