@@ -1,3 +1,8 @@
+---
+title: User Guide
+nav_order: 3
+---
+
 # DHIS2 Organisation Unit Sync App  
 ## User Guide (v1.0.0)
 
