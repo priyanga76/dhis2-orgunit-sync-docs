@@ -1,3 +1,8 @@
+---
+title: Quick Start Guide
+nav_order: 2
+---
+
 # ⚡ Org Unit Sync – Quick Start Guide (v1.0)
 
 ---
