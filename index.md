@@ -1,3 +1,7 @@
+---
+title: Home
+nav_order: 1
+---
 # Org Unit Sync – Documentation
 
 Welcome to the documentation for the **DHIS2 Org Unit Sync** app.
