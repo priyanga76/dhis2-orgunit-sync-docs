@@ -1,6 +1,6 @@
 title: DHIS2 Org Unit Sync Help
 description: User documentation for the DHIS2 Org Unit Sync App
-theme: minima
+theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
