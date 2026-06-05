@@ -1,10 +1,10 @@
-title: Org Unit Sync
-description: DHIS2 Organisation Unit Sync Documentation
+title: DHIS2 Org Unit Sync Help
+description: User documentation for the DHIS2 Org Unit Sync App
+theme: minima
 
-remote_theme: just-the-docs/just-the-docs
-
-search_enabled: true
-
-aux_links:
-  "GitHub Repository":
-    - "https://github.com/priyanga76/dhis2-orgunit-sync"
+header_pages:
+  - index.md
+  - quick-start.md
+  - user-guide.md
+  - troubleshooting.md
+  - about.md
