@@ -1,10 +1,15 @@
-title: DHIS2 Org Unit Sync Help
-description: User documentation for the DHIS2 Org Unit Sync App
+title: DHIS2 Org Unit Sync
+description: Documentation and User Guide for the DHIS2 Org Unit Sync App
+
 theme: jekyll-theme-cayman
 
 header_pages:
-  - index.md
   - quick-start.md
   - user-guide.md
   - troubleshooting.md
   - about.md
+
+show_downloads: false
+
+github:
+  is_project_page: true
